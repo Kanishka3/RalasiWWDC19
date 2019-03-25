@@ -17,4 +17,4 @@ Then I started making the intial scenes in Adobe XD.
 
 ## Youtube 
 
-Here is the (youtube)[https://www.youtube.com/watch?v=54wndSzKW_E&t=38s] link of the playground. 
+Here is the [youtube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s) link of the playground. 
