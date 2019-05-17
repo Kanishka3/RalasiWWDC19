@@ -1,10 +1,12 @@
-# RalasiWWDC19
+# Ralasi WWDC19
 
-## Topic - Food Crisis and Food Waste 
+This WWDC Scholarship took me all the way to WWDC as I was awarded WWDC Scholarship. 
+
+## 🥗 Topic - Food Crisis and Food Waste 
 There are yet the fundamentals problems in the world which are not yet able to solve. So, in this program we solve one of
 in funny, practical and intuitive way. 
 
-## Finding the Topic- Behind the scenes 
+## 💭 Finding the Topic- Behind the scenes 
 First thing, my exams were going on till 19 March. So I got less time. As soon as I came home after giving the last exam,
 instead of celebrating end of the exams, I grab the laptop and started searching for the fundamental problems of the world. 
 I noted some of the down and realized (the realization came from the saying of my mother) that food and water are important 
@@ -15,6 +17,7 @@ Then I started making the intial scenes in Adobe XD.
 
 
 
-## Youtube 
+## ◀️ Youtube 
 
 Here is the [youtube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s) link of the playground. 
+
